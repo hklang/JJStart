@@ -1,0 +1,8 @@
+C:\Users\Administrator\Desktop\JJStart-master\bin\Release\plugins\FileEncrypt.dll
+C:\Users\Administrator\Desktop\JJStart-master\plugins\FileEncrypt\obj\Release\FileEncrypt.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\JJStart-master\plugins\FileEncrypt\obj\Release\FileEncrypt.Form1.resources
+C:\Users\Administrator\Desktop\JJStart-master\plugins\FileEncrypt\obj\Release\FileEncrypt.Properties.Resources.resources
+C:\Users\Administrator\Desktop\JJStart-master\plugins\FileEncrypt\obj\Release\FileEncrypt.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\JJStart-master\plugins\FileEncrypt\obj\Release\FileEncrypt.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\JJStart-master\plugins\FileEncrypt\obj\Release\FileEncrypt.csproj.CopyComplete
+C:\Users\Administrator\Desktop\JJStart-master\plugins\FileEncrypt\obj\Release\FileEncrypt.dll

@@ -1,0 +1,12 @@
+C:\Users\Administrator\Desktop\JJStart-master\plugins\FileCut\bin\Debug\FileCut.dll
+C:\Users\Administrator\Desktop\JJStart-master\plugins\FileCut\bin\Debug\FileCut.pdb
+C:\Users\Administrator\Desktop\JJStart-master\plugins\FileCut\bin\Debug\JJPlugin.dll
+C:\Users\Administrator\Desktop\JJStart-master\plugins\FileCut\bin\Debug\JJPlugin.pdb
+C:\Users\Administrator\Desktop\JJStart-master\plugins\FileCut\obj\Debug\FileCut.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\JJStart-master\plugins\FileCut\obj\Debug\FileCut.Form1.resources
+C:\Users\Administrator\Desktop\JJStart-master\plugins\FileCut\obj\Debug\FileCut.Properties.Resources.resources
+C:\Users\Administrator\Desktop\JJStart-master\plugins\FileCut\obj\Debug\FileCut.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\JJStart-master\plugins\FileCut\obj\Debug\FileCut.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\JJStart-master\plugins\FileCut\obj\Debug\FileCut.csproj.CopyComplete
+C:\Users\Administrator\Desktop\JJStart-master\plugins\FileCut\obj\Debug\FileCut.dll
+C:\Users\Administrator\Desktop\JJStart-master\plugins\FileCut\obj\Debug\FileCut.pdb

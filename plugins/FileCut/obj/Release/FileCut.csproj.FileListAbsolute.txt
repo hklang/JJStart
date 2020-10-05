@@ -1,0 +1,8 @@
+C:\Users\Administrator\Desktop\JJStart-master\bin\Release\plugins\FileCut.dll
+C:\Users\Administrator\Desktop\JJStart-master\plugins\FileCut\obj\Release\FileCut.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\JJStart-master\plugins\FileCut\obj\Release\FileCut.Form1.resources
+C:\Users\Administrator\Desktop\JJStart-master\plugins\FileCut\obj\Release\FileCut.Properties.Resources.resources
+C:\Users\Administrator\Desktop\JJStart-master\plugins\FileCut\obj\Release\FileCut.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\JJStart-master\plugins\FileCut\obj\Release\FileCut.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\JJStart-master\plugins\FileCut\obj\Release\FileCut.csproj.CopyComplete
+C:\Users\Administrator\Desktop\JJStart-master\plugins\FileCut\obj\Release\FileCut.dll

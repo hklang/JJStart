@@ -1,0 +1,4 @@
+C:\Users\Administrator\Desktop\JJStart-master\JJPlugin\bin\Release\JJPlugin.dll
+C:\Users\Administrator\Desktop\JJStart-master\JJPlugin\obj\Release\JJPlugin.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\JJStart-master\JJPlugin\obj\Release\JJPlugin.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\JJStart-master\JJPlugin\obj\Release\JJPlugin.dll
